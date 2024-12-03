@@ -1,0 +1,1 @@
+A modern real estate website designed to showcase properties for sale or rent. It provides an intuitive interface for users to explore listings, view detailed property information, and connect with agents effortlessly.
